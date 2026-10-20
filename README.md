@@ -4,9 +4,8 @@ Fastener-Finding Map-aware Autonomous Ground vehicle for Probabilistic Inspectio
 This is a monorepo containing the code for the separate parts of the project.
 
 # Separated into 4 sub-repos
-1. ff-magpie-rover (ROS2 Lyrical, Edge Device)
-2. ff-magpie-client (ROS2 Lyrical, Client Server)
+1. ff-magpie-ros (ROS2 Lyrical)
+2. [ff-magpie-adc](https://github.com/Antlered-Snek/ff-magpie-adc) (ATtiny13a)
 3. ff-magpie-cam (MaixCAM 2)
-4. ff-magpie-controller (ESP32)
-5. ff-magpie-safety (ATtiny13a)
+4. [ff-magpie-controller](https://github.com/Antlered-Snek/ff-magpie-controller) (ESP32)
 
